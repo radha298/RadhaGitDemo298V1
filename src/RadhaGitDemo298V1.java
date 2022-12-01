@@ -12,7 +12,8 @@ public class RadhaGitDemo298V1 {
 		{
 			System.out.println("Do Workout");
 		}
-
+		String str = "Hello My Name is Radha & Radha likes doing coding";
+		
 	}
 
 }
